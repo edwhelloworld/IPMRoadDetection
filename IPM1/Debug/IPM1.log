@@ -1,0 +1,12 @@
+﻿  main.cpp
+d:\vs_prj\vs_testprj\[2]birdeye_trans_pack\ipmcode(videoinput)\ipm1\ipm1\main.cpp(51): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\vs_prj\vs_testprj\[2]birdeye_trans_pack\ipmcode(videoinput)\ipm1\ipm1\main.cpp(52): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\vs_prj\vs_testprj\[2]birdeye_trans_pack\ipmcode(videoinput)\ipm1\ipm1\main.cpp(53): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\vs_prj\vs_testprj\[2]birdeye_trans_pack\ipmcode(videoinput)\ipm1\ipm1\main.cpp(54): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\vs_prj\vs_testprj\[2]birdeye_trans_pack\ipmcode(videoinput)\ipm1\ipm1\main.cpp(65): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\vs_prj\vs_testprj\[2]birdeye_trans_pack\ipmcode(videoinput)\ipm1\ipm1\main.cpp(66): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\vs_prj\vs_testprj\[2]birdeye_trans_pack\ipmcode(videoinput)\ipm1\ipm1\main.cpp(67): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  IPM.cpp
+  正在生成代码...
+  IPM1.vcxproj -> D:\VS_Prj\VS_TestPrj\[2]BirdEye_trans_pack\IPMcode(videoinput)\IPM1\Debug\IPM1.exe
+  IPM1.vcxproj -> D:\VS_Prj\VS_TestPrj\[2]BirdEye_trans_pack\IPMcode(videoinput)\IPM1\Debug\IPM1.pdb (Full PDB)
